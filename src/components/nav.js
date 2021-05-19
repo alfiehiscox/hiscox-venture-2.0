@@ -6,13 +6,13 @@ const Navbar = () => {
             <Logo text="hv."></Logo>
             <ul className="flex justify-end w-full mr-6">
                 <li className="flex justify-center items-center mr-7">
-                    <a className="text-blue-500 hover:text-blue-800" href="#">Active</a>
+                    <a className="text-blue-500 hover:text-blue-800" href="#">expertise</a>
                 </li>
                 <li className="flex justify-center items-center mr-7">
-                    <a className="text-blue-500 hover:text-blue-800" href="#">Link</a>
+                    <a className="text-blue-500 hover:text-blue-800" href="#">interests</a>
                 </li>
                 <li className="flex justify-center items-center mr-7">
-                    <a className="text-blue-500 hover:text-blue-800" href="#">Link</a>
+                    <a className="text-blue-500 hover:text-blue-800" href="#">contact</a>
                 </li>
             </ul>
         </navbar>
